@@ -1,4 +1,3 @@
-````markdown
 ```mermaid
 graph LR
     %% 顶刊视觉配色方案定义 (Nature / IEEE 风格)
